@@ -20,15 +20,6 @@
 
 To set up the project locally:
 
-1. Clone the repository:
-   git clone https://github.com/Alokpatel45/VidtaSetu.git
-2. Navigate to the project directory:
-   cd eLearning2.0
-3. Install the dependencies:
-   npm install
-4. Run the application:
-   npm start
-
 ## Usage
 
 - Follow the setup instructions to launch the application.
@@ -55,9 +46,4 @@ Contributions are welcome! To contribute:
 5. Open a pull request.
 
 
-## Contact
-
-For any questions or support, please open an issue on the https://github.com/Alokpatel45/eLearning2.0.
-
----
 
